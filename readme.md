@@ -5,7 +5,7 @@ Hachy uses machine learning to candle eggs with a <b>phone</b> and a <b>Hachy Bo
 
 ## Table of Content
 This document is also avaliable in [English]
-* [onBoarding](1.Hachy-Onboarding)
+* [onBoarding](https://github.com/hachyEgg/Hachy-docs/raw/master/1.Hachy-Onboarding.pptx)
 
 
 [img-beforeinsert]: screenshots/beforeInsert.png
